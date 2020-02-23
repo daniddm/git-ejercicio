@@ -23,8 +23,11 @@ public class EjercicioEntornos {
 				{"black", "negro"},
 				{"orange", "naranja"},
 				{"yellow", "amarillo"},
+				
 				{"hello", "hola"},
 				{"goodbye", "adios"},
+				
+				{"how are you", "como estas"},
 				
 	        };
 	    
